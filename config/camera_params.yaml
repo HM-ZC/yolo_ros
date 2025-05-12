@@ -1,0 +1,4 @@
+camera_matrix: [478.3854, 0, 331.9190, 0, 478.5842, 226.7371, 0, 0, 1]
+distortion_coefficients: [-0.4085, 0.1536, 6.157666674460974e-04, -0.0017, 0.0]
+image_width: 640
+image_height: 480
